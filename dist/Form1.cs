@@ -105,5 +105,9 @@ namespace dist
             CreatConfig();
             SaveToken();
         }
+        Private void Need()
+        {
+
+        }
     }
 }
